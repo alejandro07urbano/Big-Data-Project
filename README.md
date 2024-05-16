@@ -5,4 +5,9 @@ Prerequisites
 1. Data: dataset with geographical information and associative value
 2. Python: Installed Python on your system
 3. Dependencies: Installed the libraries
+
+Running the Pipeline 
+1. Clean and format the dataset
+2. Visualization: Create visualization to understand the data
+3. 
  
